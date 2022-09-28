@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\Powers Table\bin\Debug\net6.0\Powers Table.exe
+C:\Users\bleat\source\repos\Powers Table\bin\Debug\net6.0\Powers Table.deps.json
+C:\Users\bleat\source\repos\Powers Table\bin\Debug\net6.0\Powers Table.runtimeconfig.json
+C:\Users\bleat\source\repos\Powers Table\bin\Debug\net6.0\Powers Table.dll
+C:\Users\bleat\source\repos\Powers Table\bin\Debug\net6.0\Powers Table.pdb
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.AssemblyInfo.cs
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.dll
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\refint\Powers Table.dll
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.pdb
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\Powers Table.genruntimeconfig.cache
+C:\Users\bleat\source\repos\Powers Table\obj\Debug\net6.0\ref\Powers Table.dll
